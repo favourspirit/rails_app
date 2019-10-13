@@ -11,7 +11,10 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'devise', '~> 4.7', '>= 4.7.1'
 gem 'foreman', '~> 0.85.0'
 gem 'friendly_id', '~> 5.3'
-
+gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
+gem 'faker', '~> 1.6', '>= 1.6.3'
+gem 'will_paginate-bootstrap', '~> 1.0', '>= 1.0.1'
+gem 'will_paginate', '~> 3.1', '>= 3.1.6'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.3'
