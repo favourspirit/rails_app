@@ -15,6 +15,9 @@ gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem 'faker', '~> 1.6', '>= 1.6.3'
 gem 'will_paginate-bootstrap', '~> 1.0', '>= 1.0.1'
 gem 'will_paginate', '~> 3.1', '>= 3.1.6'
+gem 'materialize-sass', '~> 1.0'
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.5'
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.3'
